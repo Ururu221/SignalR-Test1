@@ -1,0 +1,14 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.input-container {
+    margin-bottom: 10px;
+}
+
+#messagesArea {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 200px;
+}
