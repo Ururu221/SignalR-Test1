@@ -1,0 +1,29 @@
+# .NET build files
+bin/
+obj/
+.vs/
+
+# User-specific files
+appsettings.Development.json
+appsettings.local.json
+
+# Visual Studio specific files
+*.suo
+*.user
+*.csproj.user
+*.vscode/
+
+# Logs
+*.log
+
+# ASP.NET Core
+wwwroot/
+
+# Rider/JetBrains
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
