@@ -16,8 +16,6 @@ appsettings.local.json
 # Logs
 *.log
 
-# ASP.NET Core
-wwwroot/
 
 # Rider/JetBrains
 .idea/
